@@ -1,2 +1,2 @@
 # stunning-adventure
-cooding
+print "hello world"
